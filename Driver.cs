@@ -48,7 +48,7 @@ namespace firstDayInEAD
 
         public static void sum6(NumberSet s)
         {
-            Console.WriteLine("Sum of {0} and {1} is {2}", s.num1, s.num2, s.num1, s.num2);
+            Console.WriteLine("Sum of {0} and {1} is {2}", s.num1, s.num2, s.num1 + s.num2);
         }
 
         private static void Main()
@@ -66,6 +66,7 @@ namespace firstDayInEAD
             sum3(num1, num2);
 
             int hum = sum4();
+            Console.WriteLine(hum);
 
 
             NumberSet n=new NumberSet();
