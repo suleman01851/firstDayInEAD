@@ -21,7 +21,11 @@ namespace firstDayInEAD
         {
             return num1 + num2;
         }
-      
+
+        public static void sum3(int num1, int num2)
+        {
+            Console.WriteLine("Sum of {0} and {1} is {2}", num1, num2, num1 + num2);
+        }
 
         private static void Main()
         {
@@ -33,6 +37,10 @@ namespace firstDayInEAD
             Console.WriteLine("Enter second number");
             int num2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Sum of {0} and {1} is {2}", num1, num2, sum2(num1, num2));
+
+
+            sum3(num1, num2);
+
 
 
 
