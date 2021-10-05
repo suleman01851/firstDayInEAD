@@ -46,6 +46,11 @@ namespace firstDayInEAD
             return s.num1 + s.num2;
         }
 
+        public static void sum6(NumberSet s)
+        {
+            Console.WriteLine("Sum of {0} and {1} is {2}", s.num1, s.num2, s.num1, s.num2);
+        }
+
         private static void Main()
         {
             sum1();
@@ -71,6 +76,7 @@ namespace firstDayInEAD
             Console.WriteLine("Sum of {0} and {1} is {2}", n.num1, n.num2, sum5(n));
 
 
+            sum6(n);
 
         }
     }
