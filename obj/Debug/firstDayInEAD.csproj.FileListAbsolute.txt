@@ -1,0 +1,7 @@
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\obj\Debug\firstDayInEAD.csprojAssemblyReference.cache
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\obj\Debug\firstDayInEAD.csproj.CoreCompileInputs.cache
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\bin\Debug\firstDayInEAD.exe.config
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\bin\Debug\firstDayInEAD.exe
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\bin\Debug\firstDayInEAD.pdb
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\obj\Debug\firstDayInEAD.exe
+C:\Users\sulem\source\repos\firstDayInEAD\firstDayInEAD\obj\Debug\firstDayInEAD.pdb
